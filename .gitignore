@@ -1,0 +1,14 @@
+# Credentials & tokens
+credentials/
+token.pickle
+token_sheets.pickle
+processed_emails.json
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Ignore proof videos
+proof/*.mp4
