@@ -1,10 +1,6 @@
-Dheeraj R Salaskar
-
-
-
-
-
-
+hello im Dheeraj R Salaskar.
+bcz of size limit i have uploaded video in drive.
+drive-link:-https://drive.google.com/file/d/1KnAW6mjH2lTtuZp2jXKomTqCSTK8g6AG/view?usp=sharing
 
 This project is a Python automation system that reads real unread emails from a Gmail inbox using the Gmail API and logs them into a Google Sheet using the Google Sheets API.
 Each email is processed only once, stored without duplication, and marked as read after successful processing.
